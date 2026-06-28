@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Performance Report 
+# Pizza Sales Performance Report 🍕
 
 ## Project Overview
 
