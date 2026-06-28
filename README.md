@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Performance Report SQL + Power BI Project
+# 🍕 Pizza Sales Performance Report 
 
 ## Project Overview
 
